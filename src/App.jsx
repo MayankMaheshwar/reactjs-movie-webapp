@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import {fetchDataFromAPI} from './utils/api'
 
+
 function App() {
 	useEffect(() => {
 		apiTesting()
